@@ -1,0 +1,4 @@
+[console_scripts]
+dss_bridge_node = dss_bridge.dss_bridge_node:main
+dss_car_control_node = dss_bridge.dss_car_control_node:main
+

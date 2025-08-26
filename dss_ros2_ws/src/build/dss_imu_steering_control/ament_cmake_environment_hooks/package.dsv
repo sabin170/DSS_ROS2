@@ -1,0 +1,4 @@
+source;share/dss_imu_steering_control/local_setup.bash
+source;share/dss_imu_steering_control/local_setup.dsv
+source;share/dss_imu_steering_control/local_setup.sh
+source;share/dss_imu_steering_control/local_setup.zsh

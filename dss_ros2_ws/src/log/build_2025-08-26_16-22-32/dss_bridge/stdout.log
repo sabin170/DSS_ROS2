@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating dss_bridge.egg-info
+writing dss_bridge.egg-info/PKG-INFO
+writing dependency_links to dss_bridge.egg-info/dependency_links.txt
+writing entry points to dss_bridge.egg-info/entry_points.txt
+writing requirements to dss_bridge.egg-info/requires.txt
+writing top-level names to dss_bridge.egg-info/top_level.txt
+writing manifest file 'dss_bridge.egg-info/SOURCES.txt'
+reading manifest file 'dss_bridge.egg-info/SOURCES.txt'
+writing manifest file 'dss_bridge.egg-info/SOURCES.txt'
+running build_ext
+Creating /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/lib/python3.10/site-packages/dss-bridge.egg-link (link to .)
+Installing dss_bridge_node script to /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/lib/dss_bridge
+Installing dss_car_control_node script to /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/lib/dss_bridge
+
+Installed /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_bridge
+running symlink_data
+creating /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/share/ament_index
+creating /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/share/ament_index/resource_index
+creating /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/share/ament_index/resource_index/packages
+symbolically linking /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_bridge/resource/dss_bridge -> /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/share/ament_index/resource_index/packages
+symbolically linking /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_bridge/package.xml -> /mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/install/dss_bridge/share/dss_bridge

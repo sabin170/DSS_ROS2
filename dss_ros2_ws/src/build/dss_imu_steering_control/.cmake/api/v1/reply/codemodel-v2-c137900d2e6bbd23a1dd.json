@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-c5c2c42cd5cfb25d5d2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "dss_imu_steering_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dss_imu_steering_control_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dss_imu_steering_control_uninstall-368fe9362f08d83f945a.json",
+					"name" : "dss_imu_steering_control_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "imu_steering_control_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-imu_steering_control_node-55b5dde69af27945f8af.json",
+					"name" : "imu_steering_control_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3bf577a33d3c247d033a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_imu_steering_control",
+		"source" : "/mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/dss_imu_steering_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

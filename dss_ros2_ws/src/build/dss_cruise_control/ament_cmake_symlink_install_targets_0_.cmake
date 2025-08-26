@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_cruise_control/cruise_control_node" "TARGETS" "cruise_control_node" "DESTINATION" "lib/dss_cruise_control")

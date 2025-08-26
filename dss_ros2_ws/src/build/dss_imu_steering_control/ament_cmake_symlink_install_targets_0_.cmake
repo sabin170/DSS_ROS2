@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/mnt/c/Project/DSS_ROS2/dss_ros2_ws/src/build/dss_imu_steering_control/imu_steering_control_node" "TARGETS" "imu_steering_control_node" "DESTINATION" "lib/dss_imu_steering_control")

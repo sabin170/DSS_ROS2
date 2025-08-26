@@ -1,0 +1,6 @@
+PyYAML
+nats-py
+numpy
+opencv-python
+protobuf
+setuptools
